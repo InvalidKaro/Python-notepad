@@ -2,4 +2,4 @@
 
 # Credits: Invalid Karo
 
-``Import tk
+```Import tk```
